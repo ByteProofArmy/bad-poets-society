@@ -117,15 +117,15 @@ These three poems are used as input to generative AI tools.
 The project uses additional tools to present the selected poems:
 
 `text2image/`
-Contains prompts and/or scripts for text-to-image models (e.g. Stable Diffusion, DALL·E, Midjourney, Pollo AI, etc.).
+Contains prompts and/or scripts for text-to-image models (DALL·E, Pollo AI).
 Each poem is converted into a set of visual elements (time of day, objects, mood), and these are used to generate:
 
 images that show the poem text, and
 
-separate images that illustrate key poetic elements (e.g. beds, pools, orchids, topaz, thunder).
+separate images that illustrate key poetic elements (beds, pools, orchids, topaz, thunder).
 
 `text2audio/`
-Contains prompts or scripts for text-to-speech tools (e.g. ElevenLabs, Speechify, etc.) to:
+Contains prompts or scripts for text-to-speech tools (ElevenLabs, Speechify) to:
 
 create spoken-word versions of each selected poem.
 
