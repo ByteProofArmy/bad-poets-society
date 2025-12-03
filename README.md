@@ -91,7 +91,7 @@ The notebook `bad_poet_society.ipynb` loads the three inspiring sets and:
 By changing the `theme` parameter and the random seed, the same generator can produce different “bad poems” in different styles.
 
 
-## Selected poems for AI presentation
+## 5. Selected poems for AI presentation
 
 the3_for_ai.txt
 
@@ -112,7 +112,7 @@ Shiny peak – nature theme
 
 These three poems are used as input to generative AI tools.
 
-Presenting poems with generative AI
+## 6.Presenting poems with generative AI
 
 The project uses additional tools to present the selected poems:
 
