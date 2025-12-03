@@ -1,4 +1,4 @@
-# Bad Poets Society – Poem Generator
+#📃 Bad Poets Society – Poem Generator
 
 This repository contains the code and notebooks for a small “bad poetry” generator, built for the **Bad Poets Society** assignment.  
 The project has two main parts:
@@ -70,11 +70,11 @@ Cleans and organises poems into three broad styles:
 
 Saves the resulting text corpora into:
 
-+ poems_love.txt
+` poems_love.txt`
 
-+ poems_nature.txt
+` poems_nature.txt`
 
-+ poems_dream.txt
+` poems_dream.txt`
 
 These three files form the inspiring set in the sense of Ritchie: they define the kind of language and imagery the system aims to imitate, without copying lines directly.
 
