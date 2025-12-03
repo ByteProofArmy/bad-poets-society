@@ -50,7 +50,7 @@ pip install spacy lemminflect inflect requests beautifulsoup4 jupyter
 python -m spacy download en_core_web_sm
 ```
 
-## Building the inspiring set
+## 3.Building the inspiring set
 
 poetry_inspiring_set.ipynb
 
@@ -93,7 +93,7 @@ By changing the `theme` parameter and the random seed, the same generator can pr
 
 ## 5. Selected poems for AI presentation
 
-the3_for_ai.txt
+`the3_for_ai.txt`
 
 During experimentation, many poems were generated for each theme.
 From these, we manually selected one poem per theme that:
@@ -102,7 +102,7 @@ still felt like a “bad poet society” output (some weirdness, not fully gramm
 
 but had enough coherent imagery to be meaningful.
 
-The final choices are stored in the3_for_ai.txt:
+The final choices are stored in `the3_for_ai.txt`:
 
 + Conscious create – dream theme
 
@@ -116,7 +116,7 @@ These three poems are used as input to generative AI tools.
 
 The project uses additional tools to present the selected poems:
 
-text2image/
+`text2image/`
 Contains prompts and/or scripts for text-to-image models (e.g. Stable Diffusion, DALL·E, Midjourney, Pollo AI, etc.).
 Each poem is converted into a set of visual elements (time of day, objects, mood), and these are used to generate:
 
@@ -124,7 +124,7 @@ images that show the poem text, and
 
 separate images that illustrate key poetic elements (e.g. beds, pools, orchids, topaz, thunder).
 
-text2audio/
+`text2audio/`
 Contains prompts or scripts for text-to-speech tools (e.g. ElevenLabs, Speechify, etc.) to:
 
 create spoken-word versions of each selected poem.
