@@ -62,19 +62,19 @@ The poems are only used for study and for building an inspiring set.
 
 Cleans and organises poems into three broad styles:
 
-Love – relationship, emotions, affection, heartbreak
++ Love – relationship, emotions, affection, heartbreak
 
-Nature – landscapes, seasons, natural imagery
++ Nature – landscapes, seasons, natural imagery
 
-Dream – surreal, abstract, dream-like language
++ Dream – surreal, abstract, dream-like language
 
 Saves the resulting text corpora into:
 
-poems_love.txt
++ poems_love.txt
 
-poems_nature.txt
++ poems_nature.txt
 
-poems_dream.txt
++ poems_dream.txt
 
 These three files form the inspiring set in the sense of Ritchie: they define the kind of language and imagery the system aims to imitate, without copying lines directly.
 
@@ -104,11 +104,11 @@ but had enough coherent imagery to be meaningful.
 
 The final choices are stored in the3_for_ai.txt:
 
-Conscious create – dream theme
++ Conscious create – dream theme
 
-Permanent rip – love theme
++ Permanent rip – love theme
 
-Shiny peak – nature theme
++ Shiny peak – nature theme
 
 These three poems are used as input to generative AI tools.
 
