@@ -1,4 +1,4 @@
-#📃 Bad Poets Society – Poem Generator
+# 📃 Bad Poets Society – Poem Generator
 
 This repository contains the code and notebooks for a small “bad poetry” generator, built for the **Bad Poets Society** assignment.  
 The project has two main parts:
